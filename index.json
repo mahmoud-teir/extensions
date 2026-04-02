@@ -6616,7 +6616,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "性感美女",
+        "name": "\u6027\u611f\u7f8e\u5973",
         "lang": "all",
         "id": "2870097240566002663",
         "baseUrl": "http://xgmn8.vip",
@@ -6752,7 +6752,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "小黄书",
+        "name": "\u5c0f\u9ec4\u4e66",
         "lang": "all",
         "id": "170542391855030753",
         "baseUrl": "https://en.xchina.co",
@@ -6795,7 +6795,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "هنتاي العرب",
+        "name": "\u0647\u0646\u062a\u0627\u064a \u0627\u0644\u0639\u0631\u0628",
         "lang": "ar",
         "id": "3472625749271868375",
         "baseUrl": "https://arabshentai.com",
@@ -6813,7 +6813,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "عرب تونز",
+        "name": "\u0639\u0631\u0628 \u062a\u0648\u0646\u0632",
         "lang": "ar",
         "id": "2424761902286195560",
         "baseUrl": "https://arabtoons.net",
@@ -6849,7 +6849,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "أريا مانجا",
+        "name": "\u0623\u0631\u064a\u0627 \u0645\u0627\u0646\u062c\u0627",
         "lang": "ar",
         "id": "8112280317896333809",
         "baseUrl": "https://ar.kenmanga.com",
@@ -6939,7 +6939,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "شبكة كونان العربية",
+        "name": "\u0634\u0628\u0643\u0629 \u0643\u0648\u0646\u0627\u0646 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
         "lang": "ar",
         "id": "5702082694566979718",
         "baseUrl": "https://manga.detectiveconanar.com",
@@ -7011,7 +7011,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "هنتاي سلاير",
+        "name": "\u0647\u0646\u062a\u0627\u064a \u0633\u0644\u0627\u064a\u0631",
         "lang": "ar",
         "id": "1383489648660567366",
         "baseUrl": "https://hentaislayer.net",
@@ -7065,7 +7065,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "مانجا العاشق",
+        "name": "\u0645\u0627\u0646\u062c\u0627 \u0627\u0644\u0639\u0627\u0634\u0642",
         "lang": "ar",
         "id": "1073624495230267708",
         "baseUrl": "https://3asq.org",
@@ -7119,7 +7119,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "مانجا ليك",
+        "name": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0643",
         "lang": "ar",
         "id": "918460697583900080",
         "baseUrl": "https://lekmanga.net#, https://lekmanga.online#, https://like-manga.net#, https://lekmanga.site#, https://manga-leko.site",
@@ -7137,7 +7137,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "مانجا لينك",
+        "name": "\u0645\u0627\u0646\u062c\u0627 \u0644\u064a\u0646\u0643",
         "lang": "ar",
         "id": "3568795724496898351",
         "baseUrl": "https://link-manga.net",
@@ -7407,7 +7407,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "مانجا اون لاين",
+        "name": "\u0645\u0627\u0646\u062c\u0627 \u0627\u0648\u0646 \u0644\u0627\u064a\u0646",
         "lang": "ar",
         "id": "335499577904379512",
         "baseUrl": "https://onma.me",
@@ -7497,7 +7497,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "مانجا شقاع",
+        "name": "\u0645\u0627\u0646\u062c\u0627 \u0634\u0642\u0627\u0639",
         "lang": "ar",
         "id": "6262106764679184511",
         "baseUrl": "https://www.shqqaa.com",
@@ -8568,7 +8568,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Danke fürs Lesen",
+    "name": "Tachiyomi: Danke f\u00fcrs Lesen",
     "pkg": "eu.kanade.tachiyomi.extension.en.dankefurslesen",
     "apk": "tachiyomi-en.dankefurslesen-v1.4.6.apk",
     "lang": "en",
@@ -8577,7 +8577,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Danke fürs Lesen",
+        "name": "Danke f\u00fcrs Lesen",
         "lang": "en",
         "id": "370316150648855996",
         "baseUrl": "https://danke.moe",
@@ -20183,7 +20183,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "コミコ",
+        "name": "\u30b3\u30df\u30b3",
         "lang": "ja",
         "id": "4991718230921189832",
         "baseUrl": "https://www.comico.jp",
@@ -20453,7 +20453,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "がうがうモンスター＋",
+        "name": "\u304c\u3046\u304c\u3046\u30e2\u30f3\u30b9\u30bf\u30fc\uff0b",
         "lang": "ja",
         "id": "9220365500598403749",
         "baseUrl": "https://gaugau.futabanet.jp",
@@ -20597,7 +20597,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "カドコミ",
+        "name": "\u30ab\u30c9\u30b3\u30df",
         "lang": "ja",
         "id": "8396089563187142394",
         "baseUrl": "https://comic-walker.com",
@@ -20921,7 +20921,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "マンガ図書館Z",
+        "name": "\u30de\u30f3\u30ac\u56f3\u66f8\u9928Z",
         "lang": "ja",
         "id": "7564150377964448106",
         "baseUrl": "https://www.mangaz.com",
@@ -21101,7 +21101,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Pixivコミック",
+        "name": "Pixiv\u30b3\u30df\u30c3\u30af",
         "lang": "ja",
         "id": "2937751339618832603",
         "baseUrl": "https://comic.pixiv.net",
@@ -21461,14 +21461,14 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "ヤンマガ（マンガ）",
+        "name": "\u30e4\u30f3\u30de\u30ac\uff08\u30de\u30f3\u30ac\uff09",
         "lang": "ja",
         "id": "2126618372106431410",
         "baseUrl": "https://yanmaga.jp",
         "versionId": 1
       },
       {
-        "name": "ヤンマガ（グラビア）",
+        "name": "\u30e4\u30f3\u30de\u30ac\uff08\u30b0\u30e9\u30d3\u30a2\uff09",
         "lang": "ja",
         "id": "2227240489801599645",
         "baseUrl": "https://yanmaga.jp",
@@ -21612,7 +21612,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "블랙툰",
+        "name": "\ube14\ub799\ud230",
         "lang": "ko",
         "id": "7080800841003944426",
         "baseUrl": "https://blacktoon.me",
@@ -21741,21 +21741,21 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "늑대닷컴 - 웹툰",
+        "name": "\ub291\ub300\ub2f7\ucef4 - \uc6f9\ud230",
         "lang": "ko",
         "id": "5583626852311652499",
         "baseUrl": "https://wfwf448.com",
         "versionId": 1
       },
       {
-        "name": "늑대닷컴 - 만화책",
+        "name": "\ub291\ub300\ub2f7\ucef4 - \ub9cc\ud654\ucc45",
         "lang": "ko",
         "id": "7074060458114951398",
         "baseUrl": "https://wfwf448.com",
         "versionId": 1
       },
       {
-        "name": "늑대닷컴 - 포토툰",
+        "name": "\ub291\ub300\ub2f7\ucef4 - \ud3ec\ud1a0\ud230",
         "lang": "ko",
         "id": "4225505094399546613",
         "baseUrl": "https://wfwf448.com",
@@ -21836,7 +21836,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Apenas Uma Fã",
+    "name": "Tachiyomi: Apenas Uma F\u00e3",
     "pkg": "eu.kanade.tachiyomi.extension.pt.apenasumafa",
     "apk": "tachiyomi-pt.apenasumafa-v1.4.11.apk",
     "lang": "pt-BR",
@@ -21845,7 +21845,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Apenas Uma Fã",
+        "name": "Apenas Uma F\u00e3",
         "lang": "pt-BR",
         "id": "6897166867127039489",
         "baseUrl": "https://apenasuma-fa.blogspot.com",
@@ -22070,7 +22070,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Café com Yaoi",
+    "name": "Tachiyomi: Caf\u00e9 com Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cafecomyaoi",
     "apk": "tachiyomi-pt.cafecomyaoi-v1.4.47.apk",
     "lang": "pt-BR",
@@ -22079,7 +22079,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Café com Yaoi",
+        "name": "Caf\u00e9 com Yaoi",
         "lang": "pt-BR",
         "id": "340055543197648554",
         "baseUrl": "https://cafecomyaoi.com.br",
@@ -22430,7 +22430,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sagrado Império da Britannia",
+    "name": "Tachiyomi: Sagrado Imp\u00e9rio da Britannia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
     "apk": "tachiyomi-pt.imperiodabritannia-v1.4.53.apk",
     "lang": "pt-BR",
@@ -22439,7 +22439,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Sagrado Império da Britannia",
+        "name": "Sagrado Imp\u00e9rio da Britannia",
         "lang": "pt-BR",
         "id": "7355004027880350247",
         "baseUrl": "https://imperiodabritannia.net",
@@ -22547,7 +22547,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Leitura Mangá",
+        "name": "Leitura Mang\u00e1",
         "lang": "pt-BR",
         "id": "1445343849143422351",
         "baseUrl": "https://leituramanga.net",
@@ -23294,7 +23294,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sakura Mangás",
+    "name": "Tachiyomi: Sakura Mang\u00e1s",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sakuramangas",
     "apk": "tachiyomi-pt.sakuramangas-v1.4.4.apk",
     "lang": "pt-BR",
@@ -23303,7 +23303,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Sakura Mangás",
+        "name": "Sakura Mang\u00e1s",
         "lang": "pt-BR",
         "id": "5312747352055987615",
         "baseUrl": "https://sakuramangas.org",
@@ -23366,7 +23366,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Taiyō",
+    "name": "Tachiyomi: Taiy\u014d",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taiyo",
     "apk": "tachiyomi-pt.taiyo-v1.4.8.apk",
     "lang": "pt-BR",
@@ -23375,7 +23375,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Taiyō",
+        "name": "Taiy\u014d",
         "lang": "pt-BR",
         "id": "7387610647818309943",
         "baseUrl": "https://taiyo.moe",
@@ -23438,7 +23438,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Temaki mangás",
+    "name": "Tachiyomi: Temaki mang\u00e1s",
     "pkg": "eu.kanade.tachiyomi.extension.pt.temakimangas",
     "apk": "tachiyomi-pt.temakimangas-v1.4.11.apk",
     "lang": "pt-BR",
@@ -23447,7 +23447,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Temaki mangás",
+        "name": "Temaki mang\u00e1s",
         "lang": "pt-BR",
         "id": "677370205708439700",
         "baseUrl": "https://temakimangas.blogspot.com",
@@ -23492,7 +23492,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Traduções do Lipe",
+    "name": "Tachiyomi: Tradu\u00e7\u00f5es do Lipe",
     "pkg": "eu.kanade.tachiyomi.extension.pt.traducoesdolipe",
     "apk": "tachiyomi-pt.traducoesdolipe-v1.4.12.apk",
     "lang": "pt-BR",
@@ -23501,7 +23501,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Traduções do Lipe",
+        "name": "Tradu\u00e7\u00f5es do Lipe",
         "lang": "pt-BR",
         "id": "3650511144741653873",
         "baseUrl": "https://traducoesdolipe.blogspot.com",
@@ -23510,7 +23510,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Tsundoku Traduções",
+    "name": "Tachiyomi: Tsundoku Tradu\u00e7\u00f5es",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
     "apk": "tachiyomi-pt.tsundokutraducoes-v1.4.39.apk",
     "lang": "pt-BR",
@@ -23519,7 +23519,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Tsundoku Traduções",
+        "name": "Tsundoku Tradu\u00e7\u00f5es",
         "lang": "pt-BR",
         "id": "2091088265283814173",
         "baseUrl": "https://tsundoku.com.br",
@@ -23636,7 +23636,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Yomu Mangás",
+    "name": "Tachiyomi: Yomu Mang\u00e1s",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yomumangas",
     "apk": "tachiyomi-pt.yomumangas-v1.4.4.apk",
     "lang": "pt-BR",
@@ -23645,7 +23645,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Yomu Mangás",
+        "name": "Yomu Mang\u00e1s",
         "lang": "pt-BR",
         "id": "1636954121036022614",
         "baseUrl": "https://yomumangas.com",
@@ -23654,7 +23654,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Yugen Mangás",
+    "name": "Tachiyomi: Yugen Mang\u00e1s",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
     "apk": "tachiyomi-pt.yugenmangas-v1.4.50.apk",
     "lang": "pt-BR",
@@ -23663,7 +23663,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Yugen Mangás",
+        "name": "Yugen Mang\u00e1s",
         "lang": "pt-BR",
         "id": "8900485893586998299",
         "baseUrl": "https://yugenmangasbr.dxtg.online",
@@ -24761,7 +24761,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "สดใสเมะ",
+        "name": "\u0e2a\u0e14\u0e43\u0e2a\u0e40\u0e21\u0e30",
         "lang": "th",
         "id": "8174267898467838103",
         "baseUrl": "https://www.xn--l3c0azab5a2gta.com",
@@ -24968,7 +24968,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: ÇaprazManga",
+    "name": "Tachiyomi: \u00c7aprazManga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.caprazmanga",
     "apk": "tachiyomi-tr.caprazmanga-v1.4.45.apk",
     "lang": "tr",
@@ -24977,7 +24977,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "ÇaprazManga",
+        "name": "\u00c7aprazManga",
         "lang": "tr",
         "id": "7298383099057828683",
         "baseUrl": "https://caprazmanga.com",
@@ -25112,7 +25112,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Gölge Bahçesi",
+    "name": "Tachiyomi: G\u00f6lge Bah\u00e7esi",
     "pkg": "eu.kanade.tachiyomi.extension.tr.golgebahcesi",
     "apk": "tachiyomi-tr.golgebahcesi-v1.4.30.apk",
     "lang": "tr",
@@ -25121,7 +25121,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Gölge Bahçesi",
+        "name": "G\u00f6lge Bah\u00e7esi",
         "lang": "tr",
         "id": "9140435144936721031",
         "baseUrl": "https://golgebahcesi.com",
@@ -25364,7 +25364,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Şehri",
+    "name": "Tachiyomi: Manga \u015eehri",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangasehri",
     "apk": "tachiyomi-tr.mangasehri-v1.4.46.apk",
     "lang": "tr",
@@ -25373,7 +25373,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Manga Şehri",
+        "name": "Manga \u015eehri",
         "lang": "tr",
         "id": "765479493052253014",
         "baseUrl": "https://manga-sehri.com",
@@ -25382,7 +25382,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Şehri.net",
+    "name": "Tachiyomi: Manga \u015eehri.net",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangasehrinet",
     "apk": "tachiyomi-tr.mangasehrinet-v1.4.46.apk",
     "lang": "tr",
@@ -25391,7 +25391,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Manga Şehri.net",
+        "name": "Manga \u015eehri.net",
         "lang": "tr",
         "id": "2403498411345112019",
         "baseUrl": "https://manga-sehri.net",
@@ -25706,7 +25706,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Rüya Manga",
+    "name": "Tachiyomi: R\u00fcya Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.ruyamanga",
     "apk": "tachiyomi-tr.ruyamanga-v1.4.49.apk",
     "lang": "tr",
@@ -25715,7 +25715,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Rüya Manga",
+        "name": "R\u00fcya Manga",
         "lang": "tr",
         "id": "5786550835901373927",
         "baseUrl": "https://www.ruyamanga2.com",
@@ -25724,7 +25724,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Rüya Manga.net",
+    "name": "Tachiyomi: R\u00fcya Manga.net",
     "pkg": "eu.kanade.tachiyomi.extension.tr.ruyamanganet",
     "apk": "tachiyomi-tr.ruyamanganet-v1.4.45.apk",
     "lang": "tr",
@@ -25733,7 +25733,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Rüya Manga.net",
+        "name": "R\u00fcya Manga.net",
         "lang": "tr",
         "id": "5507342509037890098",
         "baseUrl": "https://ruyamanga.net",
@@ -25760,7 +25760,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Shadow Çeviri",
+    "name": "Tachiyomi: Shadow \u00c7eviri",
     "pkg": "eu.kanade.tachiyomi.extension.tr.shadowceviri",
     "apk": "tachiyomi-tr.shadowceviri-v1.4.11.apk",
     "lang": "tr",
@@ -25769,7 +25769,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Shadow Çeviri",
+        "name": "Shadow \u00c7eviri",
         "lang": "tr",
         "id": "3852979672050614736",
         "baseUrl": "https://shadowceviri.blogspot.com",
@@ -25976,7 +25976,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Türkçe Manga Oku",
+    "name": "Tachiyomi: T\u00fcrk\u00e7e Manga Oku",
     "pkg": "eu.kanade.tachiyomi.extension.tr.turkcemangaoku",
     "apk": "tachiyomi-tr.turkcemangaoku-v1.4.46.apk",
     "lang": "tr",
@@ -25985,7 +25985,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "Türkçe Manga Oku",
+        "name": "T\u00fcrk\u00e7e Manga Oku",
         "lang": "tr",
         "id": "1213201447439140959",
         "baseUrl": "https://trmangaoku.com",
@@ -26003,7 +26003,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Türkçe Manga Oku TR",
+        "name": "T\u00fcrk\u00e7e Manga Oku TR",
         "lang": "tr",
         "id": "4269781201892859761",
         "baseUrl": "https://turkcemangaoku.com.tr",
@@ -26291,7 +26291,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Dưa Leo Truyện",
+        "name": "D\u01b0a Leo Truy\u1ec7n",
         "lang": "vi",
         "id": "1039830224122325226",
         "baseUrl": "https://dualeotruyenqr.com",
@@ -26737,7 +26737,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Team Lạnh Lùng",
+        "name": "Team L\u1ea1nh L\u00f9ng",
         "lang": "vi",
         "id": "1832370231745386795",
         "baseUrl": "https://hongtruyentranh.com",
@@ -26809,7 +26809,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Truyện Hentai 18+",
+        "name": "Truy\u1ec7n Hentai 18+",
         "lang": "vi",
         "id": "6484094278517548634",
         "baseUrl": "https://truyenhentai18.net",
@@ -26863,7 +26863,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "Truyện tranh đam mỹ",
+        "name": "Truy\u1ec7n tranh \u0111am m\u1ef9",
         "lang": "vi",
         "id": "3809566188515992024",
         "baseUrl": "https://truyentranhdammyy.site",
@@ -27061,7 +27061,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "百漫谷",
+        "name": "\u767e\u6f2b\u8c37",
         "lang": "zh",
         "id": "6537411878674780825",
         "baseUrl": "https://www.darpou.com/",
@@ -27079,7 +27079,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "巴卡漫画",
+        "name": "\u5df4\u5361\u6f2b\u753b",
         "lang": "zh",
         "id": "3712194609356981776",
         "baseUrl": "https://bakamh.com",
@@ -27097,7 +27097,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "包子漫画",
+        "name": "\u5305\u5b50\u6f2b\u753b",
         "lang": "zh",
         "id": "5724751873601868259",
         "baseUrl": "https://cn.baozimh.com",
@@ -27115,7 +27115,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "GoDa漫画",
+        "name": "GoDa\u6f2b\u753b",
         "lang": "zh",
         "id": "774030471139699415",
         "baseUrl": "https://baozimh.org#, https://godamh.com#, https://m.baozimh.one#, https://bzmh.org#, https://g-mh.org#, https://m.g-mh.org",
@@ -27133,7 +27133,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "《崩坏3》IP站",
+        "name": "\u300a\u5d29\u574f3\u300bIP\u7ad9",
         "lang": "zh",
         "id": "5943234929466346733",
         "baseUrl": "https://comic.bh3.com",
@@ -27169,7 +27169,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "香香腐宅",
+        "name": "\u9999\u9999\u8150\u5b85",
         "lang": "zh",
         "id": "1471112097704477289",
         "baseUrl": "https://boylove1.mobi",
@@ -27205,7 +27205,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "無限動漫",
+        "name": "\u7121\u9650\u52d5\u6f2b",
         "lang": "zh",
         "id": "8110122805257580230",
         "baseUrl": "https://www.8comic.com",
@@ -27223,7 +27223,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "CCC追漫台",
+        "name": "CCC\u8ffd\u6f2b\u53f0",
         "lang": "zh-Hant",
         "id": "8346821279138091413",
         "baseUrl": "https://www.creative-comic.tw",
@@ -27241,7 +27241,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "动漫屋",
+        "name": "\u52a8\u6f2b\u5c4b",
         "lang": "zh",
         "id": "293789630396851172",
         "baseUrl": "https://www.dm5.cn",
@@ -27277,7 +27277,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "读漫屋",
+        "name": "\u8bfb\u6f2b\u5c4b",
         "lang": "zh",
         "id": "7167507050606280098",
         "baseUrl": "https://m.dumanwu1.com",
@@ -27295,7 +27295,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "18漫画",
+        "name": "18\u6f2b\u753b",
         "lang": "zh",
         "id": "5706270060628375954",
         "baseUrl": "https://18mh.org",
@@ -27349,7 +27349,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "嗨皮漫画",
+        "name": "\u55e8\u76ae\u6f2b\u753b",
         "lang": "zh",
         "id": "6523822705383645833",
         "baseUrl": "https://m.happymh.com",
@@ -27367,7 +27367,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "爱奇艺叭嗒",
+        "name": "\u7231\u5947\u827a\u53ed\u55d2",
         "lang": "zh-Hans",
         "id": "2198877009406729694",
         "baseUrl": "https://www.iqiyi.com/manhua",
@@ -27385,7 +27385,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "禁漫天堂",
+        "name": "\u7981\u6f2b\u5929\u5802",
         "lang": "zh",
         "id": "6286738698187452081",
         "baseUrl": "https://18comic.vip",
@@ -27403,7 +27403,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "92漫画",
+        "name": "92\u6f2b\u753b",
         "lang": "zh",
         "id": "1520913911854846698",
         "baseUrl": "http://www.92mh.com",
@@ -27457,7 +27457,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "优酷漫画",
+        "name": "\u4f18\u9177\u6f2b\u753b",
         "lang": "zh",
         "id": "1637952806167036168",
         "baseUrl": "https://www.ykmh.net",
@@ -27475,7 +27475,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "漫画柜",
+        "name": "\u6f2b\u753b\u67dc",
         "lang": "zh",
         "id": "7057750772596492765",
         "baseUrl": "https://www.manhuagui.com",
@@ -27493,7 +27493,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "漫画人",
+        "name": "\u6f2b\u753b\u4eba",
         "lang": "zh",
         "id": "3616827811449702173",
         "baseUrl": "http://mangaapi.manhuaren.com",
@@ -27511,7 +27511,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "漫画屋",
+        "name": "\u6f2b\u753b\u5c4b",
         "lang": "zh",
         "id": "3279300917142951720",
         "baseUrl": "https://www.mhua5.com",
@@ -27529,7 +27529,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "漫蛙",
+        "name": "\u6f2b\u86d9",
         "lang": "zh",
         "id": "1795888684783606321",
         "baseUrl": "https://manwa.me",
@@ -27547,7 +27547,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "漫画1234",
+        "name": "\u6f2b\u753b1234",
         "lang": "zh",
         "id": "7895725080195720063",
         "baseUrl": "https://m.wmh1234.com",
@@ -27565,7 +27565,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "喵趣漫画",
+        "name": "\u55b5\u8da3\u6f2b\u753b",
         "lang": "zh",
         "id": "116946528518438525",
         "baseUrl": "https://www.miaoqumh.org",
@@ -27619,7 +27619,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "哔咔漫画",
+        "name": "\u54d4\u5494\u6f2b\u753b",
         "lang": "zh",
         "id": "5768337869316468367",
         "baseUrl": "https://picaapi.picacomic.com",
@@ -27637,7 +27637,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "肉漫屋",
+        "name": "\u8089\u6f2b\u5c4b",
         "lang": "zh",
         "id": "3647420805839021718",
         "baseUrl": "https://roum22.xyz",
@@ -27655,7 +27655,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "如漫画",
+        "name": "\u5982\u6f2b\u753b",
         "lang": "zh",
         "id": "392262758488714109",
         "baseUrl": "https://m.rumanhua2.com",
@@ -27673,7 +27673,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "六漫画",
+        "name": "\u516d\u6f2b\u753b",
         "lang": "zh",
         "id": "5183325399429659419",
         "baseUrl": "https://www.liumanhua.com",
@@ -27691,7 +27691,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "腾讯动漫",
+        "name": "\u817e\u8baf\u52a8\u6f2b",
         "lang": "zh-Hans",
         "id": "6353436350537369479",
         "baseUrl": "https://m.ac.qq.com",
@@ -27709,7 +27709,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "泰拉记事社",
+        "name": "\u6cf0\u62c9\u8bb0\u4e8b\u793e",
         "lang": "zh",
         "id": "4585134706567717130",
         "baseUrl": "https://comic.hypergryph.com",
@@ -27727,7 +27727,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "東立",
+        "name": "\u6771\u7acb",
         "lang": "zh",
         "id": "5530823947742715441",
         "baseUrl": "https://ebook.tongli.com.tw",
@@ -27745,7 +27745,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "TOPTOON頂通",
+        "name": "TOPTOON\u9802\u901a",
         "lang": "zh",
         "id": "1680248666203661128",
         "baseUrl": "https://www.toptoon.net",
@@ -27781,7 +27781,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "紳士漫畫",
+        "name": "\u7d33\u58eb\u6f2b\u756b",
         "lang": "zh",
         "id": "6551136894818591762",
         "baseUrl": "https://www.wn05.ru#, https://www.wn04.ru#, https://www.wnacg05.cc",
@@ -27799,7 +27799,7 @@
     "nsfw": 1,
     "sources": [
       {
-        "name": "一耽女孩",
+        "name": "\u4e00\u803d\u5973\u5b69",
         "lang": "zh",
         "id": "2417676426413230210",
         "baseUrl": "https://yidan1.club",
@@ -27817,7 +27817,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "再漫画",
+        "name": "\u518d\u6f2b\u753b",
         "lang": "zh",
         "id": "524579092615598717",
         "baseUrl": "https://manhua.zaimanhua.com",
@@ -27835,7 +27835,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "杂志迷",
+        "name": "\u6742\u5fd7\u8ff7",
         "lang": "zh",
         "id": "6466445276541048432",
         "baseUrl": "https://www.zazhimi.net",
@@ -27853,7 +27853,7 @@
     "nsfw": 0,
     "sources": [
       {
-        "name": "zero搬运网",
+        "name": "zero\u642c\u8fd0\u7f51",
         "lang": "zh",
         "id": "8743284448117690086",
         "baseUrl": "http://www.zerobywai.com",
@@ -27869,8 +27869,8 @@
     "code": 2,
     "version": "1.5.0",
     "nsfw": 0,
-    "sha256": "23ae9f7c3a18a9fccf171c7506fb4fa79166eca6786c5412bd6873d3e526afc8",
-    "size": 668780,
+    "sha256": "39c1cafb8ed11a15cf4fd83db0af6aa740f39f7b6ce516a1720b2cc4ab2ceb22",
+    "size": 669364,
     "sources": [
       {
         "name": "ProComic",
