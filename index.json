@@ -27864,13 +27864,13 @@
   {
     "name": "Tachiyomi: ProComic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.procomic",
-    "apk": "tachiyomi-ar.procomic-v1.6.1.apk",
+    "apk": "tachiyomi-ar.procomic-v1.6.2.apk",
     "lang": "ar",
-    "code": 6,
-    "version": "1.6.1",
+    "code": 7,
+    "version": "1.6.2",
     "nsfw": 0,
-    "sha256": "f837380d4f14e89399267201c3800b0837680e2d6e0412f25931a2bf478ca7c2",
-    "size": 672008,
+    "sha256": "b01a6da67475c008f8195e3b51688cd2487ae930b227c6b418c0e733c6635d65",
+    "size": 672948,
     "sources": [
       {
         "name": "ProComic",
